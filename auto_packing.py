@@ -5,7 +5,7 @@ import sys
 import time
 
 """
-源码地址：
+源码地址：https://github.com/TMDBug/auto_packing
 需要配置如下信息
 """
 # 项目路径(末尾不带/)

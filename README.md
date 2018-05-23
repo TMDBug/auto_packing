@@ -26,8 +26,8 @@
 	server_address = ""
 
 ##### 注：代码比较简单，也可以自行修改。
-详细说明：[https://www.tmdbug.com/ios/732.html](https://www.tmdbug.com/ios/732.html)
- 如有疑问可以 [issue提问](https://github.com/TMDBug/auto_packing/issues/new)，或者去[TMDBug.com](https://tmdbug.com)留言。
+说明：[https://www.tmdbug.com/ios/732.html](https://www.tmdbug.com/ios/732.html)
+ 如有疑问可以 [issue提问](https://github.com/TMDBug/auto_packing/issues/new)，或者去[TMDBug.com](https://tmdbug.com)留言。😀
 
 ### 二、配置exportOptions.plist
 
